@@ -28,8 +28,9 @@ ruby lib/run.rb
 
 ## Dependencies
 
-gem install ruby2d
-gem install rspec
+`gem install ruby2d`
+
+`gem install rspec`
 
 ## Testing
 
